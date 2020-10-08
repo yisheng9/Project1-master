@@ -1,0 +1,3 @@
+<stock_trade_requests> →  ‘For account' <acct_ident> 'cancle (' <stock_symbol>  { ',' <stock_symbol> } ').'
+<stock_symbol> → 'AAPL'|'HP'|'IBM'|'AMZN'|'MSFT'|'GOOGL'|'INTC'|'CSCO'|'ORCL'|'QCOM'
+<acct_ident> →  '"'alpha_char { alpha_char | digit | '_'} '"'

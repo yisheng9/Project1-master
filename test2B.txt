@@ -1,0 +1,4 @@
+For account "Hokie123" cancle ( IBM , AAPL , GOOGL , HP ).
+For account "Hokie1233" cancle ( IBM , AAPL , GOOGL , HP ).
+For account "Hokie123" ( 100 IBM shares buy at max 45 , 40 ORCL shares sell at min 25 ).
+For account "Hokie456" ( 20 IBM shares buy at max 45 , 50 AMZN shares sell at min 25 ).
